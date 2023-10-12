@@ -13,6 +13,7 @@ public class Main {
         float myFloat = 4.7333436F;
         double myDouble = 4.355453532;
         long myLong = 12121;
+
 // Print data to System output
 
         System.out.println("Here the value of CHAR variable = " +myChar);
